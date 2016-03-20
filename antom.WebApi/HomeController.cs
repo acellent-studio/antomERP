@@ -18,7 +18,7 @@ namespace antom.WebApi
         /// </summary>
         public class People
         {
-            private string _title = "Antom Web Api (Created by Tom Liao)";
+            private string _title = "Antom Web Api (Created by Acellent Studio)";
             private string _time = "Executing time:" + DateTime.Now;
             private string _user = "Tom Liao";
 

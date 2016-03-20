@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("antomWebService")]
 [assembly: AssemblyDescription("An OWIN Self-hosted Web Service created by Tom Liao")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("antomSoft Technology")]
+[assembly: AssemblyCompany("Acellent Studio")]
 [assembly: AssemblyProduct("antomWebService")]
 [assembly: AssemblyCopyright("Copyright ©  2015 antomSoft Technology")]
 [assembly: AssemblyTrademark("")]
